@@ -1,10 +1,12 @@
-!compile_commands.json
-!*.hex
-!*.elf
-!build/*.hex
 **/PSoC4200L.cydsn/codegentemp/**
 **/PSoC4200L.cydsn/CortexM0/**
 **/PSoC4200L.cydsn/Onethinx_Creator.cyprj.*
 **/PSoC4200L.cydsn/Onethinx_Creator.cywrk.*
 .DS_Store
 .cache/**
+build/meson-info/**
+build/meson-logs/**
+build/meson-private/**
+build/.ninja*
+build/*.ninja
+build/*.elf.p
