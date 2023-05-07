@@ -29,35 +29,21 @@
  *
  ********************************************************************************/
 
-
-
 #include <project.h>
-#include "stdio.h"
 
-#if defined (__GNUC__)
-    /* Add an explicit reference to the floating point printf library */
-    /* to allow usage of the floating point conversion specifiers. */
-    /* This is not linked in by default with the newlib-nano library. */
-    asm (".global _printf_float");
-#endif
 
 #define USBFS_DEVICE    (0u)
 
-/* The buffer size is equal to the maximum packet size of the IN and OUT bulk
-* endpoints.
-*/
+// /* The buffer size is equal to the maximum packet size of the IN and OUT bulk
+// * endpoints.
+// */
 #define USBUART_BUFFER_SIZE (64u)
-#define LINE_STR_LENGTH     (20u)
 
-char8* parity[] = {"None", "Odd", "Even", "Mark", "Space"};
-char8* stop[]   = {"1", "1.5", "2"};
 
 int main(void)
 {
    uint16 count;
     uint8 buffer[USBUART_BUFFER_SIZE];
-    
-
     
     CyGlobalIntEnable;
 
@@ -114,9 +100,6 @@ int main(void)
                     }
                 }
             }
-
-
-
         }
     }
 }
