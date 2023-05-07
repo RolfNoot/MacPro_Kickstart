@@ -18,7 +18,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSoC4200L\PSoC4200L">
 <ExpandedNodeIds>
 <v>PSoC4200L</v>
 <v>PSoC4200L\PSoC4200L</v>
@@ -197,6 +197,66 @@
 <VisibleNodeIds>
 <v>PSoC4200L</v>
 <v>PSoC4200L\PSoC4200L</v>
+<v>PSoC4200L\PSoC4200L\CortexM0</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\Control_SELECT_SPI.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\Control_SELECT_SPI_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_CLK.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_CLK_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_HOLD.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_HOLD_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_MISO.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_MISO_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_MOSI.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_MOSI_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_SS.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_SS_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_WP.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\EE_WP_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_CLK.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_CLK_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_HOLD.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_HOLD_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_MISO.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_MISO_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_MOSI.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_MOSI_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_SS.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_SS_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_WP.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\HOST_WP_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIM_EE.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIM_EE_INT.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIM_EE_IntClock.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIM_EE_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIS_HOST.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIS_HOST_BOOT.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIS_HOST_INT.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIS_HOST_IntClock.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIS_HOST_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\USBUART.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\USBUART_audio.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\USBUART_boot.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\USBUART_cdc.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\USBUART_cls.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\USBUART_descr.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\USBUART_Dm.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\USBUART_Dm_PM.lst</v>
+<v>PSoC4200L\PSoC4200L\CortexM0\ARM_GCC_541\Debug\Listing Files\USBUART_Dp.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>

@@ -1,14 +1,8 @@
-# Exclude cmake build directories
-cmake-build*./**
-**/local\.cmake
-**/\.idea
 !compile_commands.json
 !*.hex
 !*.elf
-.viscid/ipch*
-**/Onethinx_Creator.cydsn/codegentemp/**
-**/Onethinx_Creator.cydsn/CortexM0p/**
-**/Onethinx_Creator.cydsn/CortexM4/**
-**/Onethinx_Creator.cydsn/Onethinx_Creator.cyprj.*
-**/Onethinx_Creator.cydsn/Onethinx_Creator.cywrk.*
+**/PSoC4200L.cydsn/codegentemp/**
+**/PSoC4200L.cydsn/CortexM0/**
+**/PSoC4200L.cydsn/Onethinx_Creator.cyprj.*
+**/PSoC4200L.cydsn/Onethinx_Creator.cywrk.*
 .DS_Store
