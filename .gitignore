@@ -1,6 +1,7 @@
 !compile_commands.json
 !*.hex
 !*.elf
+!build/*.hex
 **/PSoC4200L.cydsn/codegentemp/**
 **/PSoC4200L.cydsn/CortexM0/**
 **/PSoC4200L.cydsn/Onethinx_Creator.cyprj.*
