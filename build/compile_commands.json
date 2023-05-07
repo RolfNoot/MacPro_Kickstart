@@ -1,0 +1,392 @@
+[
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/source_main.c.o -MF MacPro_KickStart.elf.p/source_main.c.o.d -o MacPro_KickStart.elf.p/source_main.c.o -c ../source/main.c",
+    "file": "../source/main.c",
+    "output": "MacPro_KickStart.elf.p/source_main.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyfitter_cfg.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyfitter_cfg.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyfitter_cfg.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyfitter_cfg.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cymetadata.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cymetadata.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cymetadata.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/cymetadata.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/cymetadata.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cymetadata.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_INT.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_INT.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_INT.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_INT.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_INT.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_INT.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_INT.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_INT.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_INT.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_INT.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_INT.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_INT.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_BOOT.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_BOOT.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_BOOT.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_BOOT.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_BOOT.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_BOOT.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MISO.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MISO.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MISO.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MISO.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MISO_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MISO_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MISO_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MISO_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Control_SELECT_SPI.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Control_SELECT_SPI.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Control_SELECT_SPI.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Control_SELECT_SPI.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Control_SELECT_SPI_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Control_SELECT_SPI_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Control_SELECT_SPI_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Control_SELECT_SPI_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MOSI.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MOSI.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MOSI.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MOSI.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MOSI_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MOSI_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MOSI_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MOSI_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_SS.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_SS.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_SS.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_SS.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_SS_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_SS_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_SS_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_SS_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_SS.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_SS.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_SS.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_SS.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_SS_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_SS_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_SS_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_SS_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MOSI.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MOSI.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MOSI.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MOSI.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MOSI_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MOSI_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MOSI_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_MOSI_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_CLK.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_CLK.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_CLK.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_CLK.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_CLK_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_CLK_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_CLK_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_CLK_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MISO.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MISO.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MISO.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MISO.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MISO_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MISO_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MISO_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_MISO_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_CLK.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_CLK.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_CLK.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_CLK.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_CLK_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_CLK_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_CLK_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_CLK_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_WP.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_WP.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_WP.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_WP.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_WP_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_WP_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_WP_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_WP_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_WP.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_WP.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_WP.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_WP.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_WP_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_WP_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_WP_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_WP_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_HOLD.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_HOLD.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_HOLD.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_HOLD.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_HOLD_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_HOLD_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_HOLD_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_EE_HOLD_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_HOLD.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_HOLD.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_HOLD.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_HOLD.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_HOLD_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_HOLD_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_HOLD_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_HOST_HOLD_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_IntClock.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_IntClock.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_IntClock.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_IntClock.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_IntClock.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIM_EE_IntClock.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_IntClock.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_IntClock.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_IntClock.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_IntClock.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_IntClock.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_SPIS_HOST_IntClock.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Cm0Start.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Cm0Start.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Cm0Start.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/Cm0Start.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/Cm0Start.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_Cm0Start.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyFlash.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyFlash.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyFlash.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/CyFlash.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/CyFlash.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyFlash.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyLib.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyLib.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyLib.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyLib.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyPm.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyPm.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyPm.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/cyPm.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/cyPm.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyPm.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyutils.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyutils.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyutils.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/cyutils.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/cyutils.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cyutils.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyDMA.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyDMA.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyDMA.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyDMA.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyLFClk.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyLFClk.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyLFClk.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyLFClk.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cy_em_eeprom.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cy_em_eeprom.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cy_em_eeprom.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/cy_em_eeprom.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/cy_em_eeprom.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_cy_em_eeprom.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_audio.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_audio.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_audio.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_audio.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_boot.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_boot.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_boot.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_boot.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_boot.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_boot.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_cdc.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_cdc.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_cdc.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_cdc.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_cls.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_cls.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_cls.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cls.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cls.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_cls.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_descr.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_descr.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_descr.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_descr.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_descr.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_descr.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_drv.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_drv.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_drv.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_drv.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_drv.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_drv.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_episr.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_episr.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_episr.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_episr.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_episr.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_episr.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_hid.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_hid.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_hid.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_hid.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_hid.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_hid.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_pm.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_pm.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_pm.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pm.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pm.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_pm.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_std.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_std.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_std.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_std.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_std.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_std.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_vnd.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_vnd.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_vnd.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_vnd.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_vnd.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_vnd.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_midi.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_midi.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_midi.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_midi.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_msc.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_msc.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_msc.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_msc.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dp.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dp.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dp.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dp.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dp_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dp_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dp_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dp_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dm.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dm.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dm.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dm.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dm_PM.c.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dm_PM.c.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dm_PM.c.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm_PM.c",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm_PM.c",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_USBUART_Dm_PM.c.o"
+  },
+  {
+    "directory": "/Volumes/Data/VScode/GIT/MacPro_Kickstart/build",
+    "command": "arm-none-eabi-gcc -IMacPro_KickStart.elf.p -I. -I.. -I../PSoC4200L.cydsn/Generated_Source/PSoC4 -I../PSoC4200L.cydsn -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g -mcpu=cortex-m0 -mthumb -g -DDEBUG -DCY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -MD -MQ MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyBootAsmGnu.s.o -MF MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyBootAsmGnu.s.o.d -o MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyBootAsmGnu.s.o -c ../PSoC4200L.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s",
+    "file": "../PSoC4200L.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s",
+    "output": "MacPro_KickStart.elf.p/PSoC4200L.cydsn_Generated_Source_PSoC4_CyBootAsmGnu.s.o"
+  }
+]
