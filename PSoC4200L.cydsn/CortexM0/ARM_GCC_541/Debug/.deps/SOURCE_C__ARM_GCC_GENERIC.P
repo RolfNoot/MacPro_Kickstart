@@ -1,0 +1,376 @@
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/Cm0Start.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/Cm0Start.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/Cm0Start.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/Control_SELECT_SPI.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/Control_SELECT_SPI_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/CyDMA.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/CyFlash.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyFlash.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyFlash.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyFlash.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/CyLFClk.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/CyLib.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyFlash.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_CLK.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_CLK_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_HOLD.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_HOLD_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_MISO.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_MISO_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_MOSI.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_MOSI_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_SS.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_SS_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_WP.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/EE_WP_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_CLK.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_CLK_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_HOLD.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_HOLD_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_MISO.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_MISO_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_MOSI.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_MOSI_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_SS.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_SS_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_WP.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/HOST_WP_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/SPIM_EE.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_IntClock.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_PVT.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_IntClock.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_PVT.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/SPIM_EE_INT.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_INT.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_IntClock.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_PVT.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_INT.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/SPIM_EE_IntClock.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_IntClock.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_IntClock.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_IntClock.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/SPIM_EE_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_IntClock.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_PVT.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/SPIS_HOST.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_PVT.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_PVT.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/SPIS_HOST_BOOT.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_BOOT.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_BOOT.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/SPIS_HOST_INT.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_INT.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_PVT.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_INT.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/SPIS_HOST_IntClock.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_IntClock.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_IntClock.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_IntClock.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_IntClock.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/SPIS_HOST_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_PVT.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cydmac.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_hid.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cydmac.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_hid.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_Dm.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm_aliases.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_Dm_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_Dp.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_Dp_PM.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp_PM.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp_PM.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_audio.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_boot.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_boot.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_boot.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_cdc.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_cls.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cls.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cls.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_descr.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_descr.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_descr.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_drv.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_drv.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_drv.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_episr.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cydmac.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_episr.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_episr.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_hid.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_hid.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_hid.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_hid.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_midi.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_msc.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_pm.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pm.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pm.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_std.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_std.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_std.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/USBUART_vnd.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_vnd.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_vnd.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/cyPm.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyFlash.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyPm.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyPm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyPm.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/cy_em_eeprom.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyFlash.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cy_em_eeprom.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cy_em_eeprom.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/cyfitter_cfg.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/cyutils.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyutils.c 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyutils.c : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/CortexM0/ARM_GCC_541/Debug/main.o : //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cmsis_armcc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cmsis_compiler.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cmsis_gcc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/core_cm0.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydisabledsheets.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/project.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/Control_SELECT_SPI.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyDMA.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyFlash.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLFClk.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/CyLib.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_CLK_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_HOLD_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MISO_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_MOSI_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_SS_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/EE_WP_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_CLK_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_HOLD_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MISO_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_MOSI_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_SS_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/HOST_WP_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_IntClock.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIM_EE_PVT.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_IntClock.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/SPIS_HOST_PVT.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dm_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_Dp_aliases.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_audio.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cdc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_cydmac.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_hid.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_midi.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_msc.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/USBUART_pvt.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyPm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydevice_trm.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cypins.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cytypes.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/cyapicallbacks.h //Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/main.c 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/Generated_Source/PSoC4/project.h : 
+
+//Mac/Data/VScode/GIT/MacPro_KickStart/PSoC4200L.cydsn/main.c : 
+

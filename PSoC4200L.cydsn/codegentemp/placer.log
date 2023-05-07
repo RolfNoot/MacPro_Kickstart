@@ -1,0 +1,258 @@
+#***************************************************************************
+
+#sjplacer
+
+#Version:            1.1
+
+#Build Date:         Sep  9 2019 11:47:43
+
+#File Generated:     May 7 2023 21:45:10
+
+#Purpose:            
+
+#Copyright (C) 2010-2011 by Softjin Technologies Pvt Ltd. All rights reserved.
+
+#***************************************************************************
+
+Executing : C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\bin/sjplacer.exe --proj-name PSoC4200L --netlist-vh2 PSoC4200L_p.vh2 --arch p4_udb2x4 --arch-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\arch/udbdsi_2x4_08.cydata --ip-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4/2/ip_blocks.cydata --rrg-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4/2/route_arch-rrg.cydata --irq-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4/2/irqconn.cydata --drq-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4/2/triggerconn.cydata --dsi-conn-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4/2/dsiconn.cydata --pins-file pins_48-TQFP-USB.xml --lib-file PSoC4200L_p.lib --sdc-file PSoC4200L.sdc --io-pcf PSoC4200L.pci --outdir .
+
+		Softjin Techologies Placer, Version 1.1
+
+Build Date : Sep  9 2019	11:45:12
+
+D2004: Option and Settings Summary
+=============================================================
+Netlist vh2 file          - PSoC4200L_p.vh2
+Architecture file         - C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\arch/udbdsi_2x4_08.cydata
+Package                   - 
+Defparam file             - 
+SDC file                  - PSoC4200L.sdc
+Output directory          - .
+Timing library            - PSoC4200L_p.lib
+IO Placement file         - PSoC4200L.pci
+
+D2050: Starting reading inputs for placer
+=============================================================
+D2065: Reading netlist file : "PSoC4200L_p.vh2"
+D2065: Reading arch file : "C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\arch/udbdsi_2x4_08.cydata"
+D2051: Reading of inputs for placer completed successfully
+
+D2053: Starting placement of the design
+=============================================================
+
+Phase 2
+Phase 3
+
+Design Statistics after Packing
+    Number of Combinational MCs 	:	18
+    Number of Sequential MCs    	:	12
+    Number of DPs               	:	2
+    Number of Controls          	:	3
+    Number of Status            	:	4
+    Number of SyncCells         	:	4
+    Number of count7cells       	:	2
+
+Device Utilization Summary after Packing
+    Macrocells                  :	30/64
+    UDBS                        :	8/8
+    IOs                         :	14/69
+
+
+D2088: Phase 3, elapsed time : 0.0 (sec)
+
+Phase 4
+D2088: Phase 4, elapsed time : 0.0 (sec)
+
+Phase 6
+
+######################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+======================================================================
+
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFClk              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFClk              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySysClk             | Frequency: N/A       | Target:  48.0 MHz
+Clock: HOST_CLK(0)_PAD      | Frequency:  29.4 MHz | Target:   0.1 MHz
+Clock: SPIM_EE_IntClock     | Frequency:  56.9 MHz | Target:   2.0 MHz
+Clock: SPIS_HOST_IntClock   | Frequency:  74.5 MHz | Target:   2.0 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+
+D2088: Phase 6, elapsed time : 0.0 (sec)
+
+Phase 7
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFClk              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFClk              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySysClk             | Frequency: N/A       | Target:  48.0 MHz
+Clock: HOST_CLK(0)_PAD      | Frequency:  30.8 MHz | Target:   0.1 MHz
+Clock: SPIM_EE_IntClock     | Frequency:  61.0 MHz | Target:   2.0 MHz
+Clock: SPIS_HOST_IntClock   | Frequency:  83.4 MHz | Target:   2.0 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+D2088: Phase 7, elapsed time : 0.2 (sec)
+
+Final Design Statistics
+    Number of Combinational MCs 	:	18
+    Number of Sequential MCs    	:	12
+    Number of DPs               	:	2
+    Number of Controls          	:	3
+    Number of Status            	:	4
+    Number of SyncCells         	:	4
+    Number of count7cells       	:	2
+    Number of IOs       	:	14
+
+Device Utilization Summary
+    Macrocells                  :	30/64
+    IOs                         :	14/69
+
+
+
+######################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+======================================================================
+
+
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFClk              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFClk              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySysClk             | Frequency: N/A       | Target:  48.0 MHz
+Clock: HOST_CLK(0)_PAD      | Frequency:  30.8 MHz | Target:   0.1 MHz
+Clock: SPIM_EE_IntClock     | Frequency:  61.0 MHz | Target:   2.2 MHz
+Clock: SPIS_HOST_IntClock   | Frequency:  83.4 MHz | Target:   2.2 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+
+Phase 6
+
+######################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+======================================================================
+
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFClk              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFClk              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySysClk             | Frequency: N/A       | Target:  48.0 MHz
+Clock: HOST_CLK(0)_PAD      | Frequency:  29.4 MHz | Target:   0.1 MHz
+Clock: SPIM_EE_IntClock     | Frequency:  56.9 MHz | Target:   2.2 MHz
+Clock: SPIS_HOST_IntClock   | Frequency:  74.5 MHz | Target:   2.2 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+
+D2088: Phase 6, elapsed time : 0.0 (sec)
+
+Phase 7
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFClk              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFClk              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySysClk             | Frequency: N/A       | Target:  48.0 MHz
+Clock: HOST_CLK(0)_PAD      | Frequency:  30.4 MHz | Target:   0.1 MHz
+Clock: SPIM_EE_IntClock     | Frequency:  61.0 MHz | Target:   2.4 MHz
+Clock: SPIS_HOST_IntClock   | Frequency:  83.4 MHz | Target:   2.4 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+D2088: Phase 7, elapsed time : 0.3 (sec)
+
+Final Design Statistics
+    Number of Combinational MCs 	:	18
+    Number of Sequential MCs    	:	12
+    Number of DPs               	:	2
+    Number of Controls          	:	3
+    Number of Status            	:	4
+    Number of SyncCells         	:	4
+    Number of count7cells       	:	2
+    Number of IOs       	:	14
+
+Device Utilization Summary
+    Macrocells                  :	30/64
+    IOs                         :	14/69
+
+
+
+######################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+======================================================================
+
+
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 9
+Clock: CyHFClk              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFClk              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySysClk             | Frequency: N/A       | Target:  48.0 MHz
+Clock: HOST_CLK(0)_PAD      | Frequency:  30.8 MHz | Target:   0.1 MHz
+Clock: SPIM_EE_IntClock     | Frequency:  61.0 MHz | Target:   2.7 MHz
+Clock: SPIS_HOST_IntClock   | Frequency:  75.6 MHz | Target:   2.7 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+
+Phase 8
+D2088: Phase 8, elapsed time : 0.0 (sec)
+
+D2054: Placement of the design completed successfully
+
+I2076: Total run-time: 1.5 sec.
+

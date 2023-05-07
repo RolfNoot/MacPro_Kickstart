@@ -1,0 +1,924 @@
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 1
+
+
+   1              		.syntax unified
+   2              		.cpu cortex-m0
+   3              		.fpu softvfp
+   4              		.eabi_attribute 20, 1
+   5              		.eabi_attribute 21, 1
+   6              		.eabi_attribute 23, 3
+   7              		.eabi_attribute 24, 1
+   8              		.eabi_attribute 25, 1
+   9              		.eabi_attribute 26, 1
+  10              		.eabi_attribute 30, 1
+  11              		.eabi_attribute 34, 0
+  12              		.eabi_attribute 18, 4
+  13              		.thumb
+  14              		.syntax unified
+  15              		.file	"SPIS_HOST_PM.c"
+  16              		.text
+  17              	.Ltext0:
+  18              		.cfi_sections	.debug_frame
+  19              		.section	.text.SPIS_HOST_SaveConfig,"ax",%progbits
+  20              		.align	2
+  21              		.global	SPIS_HOST_SaveConfig
+  22              		.code	16
+  23              		.thumb_func
+  24              		.type	SPIS_HOST_SaveConfig, %function
+  25              	SPIS_HOST_SaveConfig:
+  26              	.LFB1:
+  27              		.file 1 "Generated_Source\\PSoC4\\SPIS_HOST_PM.c"
+   1:Generated_Source\PSoC4/SPIS_HOST_PM.c **** /*******************************************************************************
+   2:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * File Name: SPIS_HOST_PM.c
+   3:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Version 2.70
+   4:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+   5:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Description:
+   6:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  This file contains the setup, control and status commands to support
+   7:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  component operations in low power mode.
+   8:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+   9:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Note:
+  10:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  11:Generated_Source\PSoC4/SPIS_HOST_PM.c **** ********************************************************************************
+  12:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Copyright 2008-2015, Cypress Semiconductor Corporation.  All rights reserved.
+  13:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * You may use this file only in accordance with the license, terms, conditions,
+  14:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * disclaimers, and limitations in the end user license agreement accompanying
+  15:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * the software package with which this file was provided.
+  16:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *******************************************************************************/
+  17:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+  18:Generated_Source\PSoC4/SPIS_HOST_PM.c **** #include "SPIS_HOST_PVT.h"
+  19:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+  20:Generated_Source\PSoC4/SPIS_HOST_PM.c **** static SPIS_HOST_BACKUP_STRUCT SPIS_HOST_backup = 
+  21:Generated_Source\PSoC4/SPIS_HOST_PM.c **** {
+  22:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     SPIS_HOST_DISABLED,
+  23:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     SPIS_HOST_BITCTR_INIT,
+  24:Generated_Source\PSoC4/SPIS_HOST_PM.c **** };
+  25:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+  26:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+  27:Generated_Source\PSoC4/SPIS_HOST_PM.c **** /*******************************************************************************
+  28:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Function Name: SPIS_HOST_SaveConfig
+  29:Generated_Source\PSoC4/SPIS_HOST_PM.c **** ********************************************************************************
+  30:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 2
+
+
+  31:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Summary:
+  32:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  Empty function. Included for consistency with other components.
+  33:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  34:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Parameters:
+  35:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  None.
+  36:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  37:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Return:
+  38:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  None.
+  39:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  40:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *******************************************************************************/
+  41:Generated_Source\PSoC4/SPIS_HOST_PM.c **** void SPIS_HOST_SaveConfig(void) 
+  42:Generated_Source\PSoC4/SPIS_HOST_PM.c **** {
+  28              		.loc 1 42 0
+  29              		.cfi_startproc
+  30              		@ args = 0, pretend = 0, frame = 0
+  31              		@ frame_needed = 0, uses_anonymous_args = 0
+  32              		@ link register save eliminated.
+  43:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+  44:Generated_Source\PSoC4/SPIS_HOST_PM.c **** }
+  33              		.loc 1 44 0
+  34              		@ sp needed
+  35 0000 7047     		bx	lr
+  36              		.cfi_endproc
+  37              	.LFE1:
+  38              		.size	SPIS_HOST_SaveConfig, .-SPIS_HOST_SaveConfig
+  39 0002 C046     		.section	.text.SPIS_HOST_RestoreConfig,"ax",%progbits
+  40              		.align	2
+  41              		.global	SPIS_HOST_RestoreConfig
+  42              		.code	16
+  43              		.thumb_func
+  44              		.type	SPIS_HOST_RestoreConfig, %function
+  45              	SPIS_HOST_RestoreConfig:
+  46              	.LFB2:
+  45:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+  46:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+  47:Generated_Source\PSoC4/SPIS_HOST_PM.c **** /*******************************************************************************
+  48:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Function Name: SPIS_HOST_RestoreConfig
+  49:Generated_Source\PSoC4/SPIS_HOST_PM.c **** ********************************************************************************
+  50:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  51:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Summary:
+  52:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  Empty function. Included for consistency with other components.
+  53:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  54:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Parameters:
+  55:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  None.
+  56:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  57:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Return:
+  58:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  None.
+  59:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  60:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *******************************************************************************/
+  61:Generated_Source\PSoC4/SPIS_HOST_PM.c **** void SPIS_HOST_RestoreConfig(void) 
+  62:Generated_Source\PSoC4/SPIS_HOST_PM.c **** {
+  47              		.loc 1 62 0
+  48              		.cfi_startproc
+  49              		@ args = 0, pretend = 0, frame = 0
+  50              		@ frame_needed = 0, uses_anonymous_args = 0
+  51              		@ link register save eliminated.
+  63:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 3
+
+
+  64:Generated_Source\PSoC4/SPIS_HOST_PM.c **** }
+  52              		.loc 1 64 0
+  53              		@ sp needed
+  54 0000 7047     		bx	lr
+  55              		.cfi_endproc
+  56              	.LFE2:
+  57              		.size	SPIS_HOST_RestoreConfig, .-SPIS_HOST_RestoreConfig
+  58 0002 C046     		.section	.text.SPIS_HOST_Sleep,"ax",%progbits
+  59              		.align	2
+  60              		.global	SPIS_HOST_Sleep
+  61              		.code	16
+  62              		.thumb_func
+  63              		.type	SPIS_HOST_Sleep, %function
+  64              	SPIS_HOST_Sleep:
+  65              	.LFB3:
+  65:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+  66:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+  67:Generated_Source\PSoC4/SPIS_HOST_PM.c **** /*******************************************************************************
+  68:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Function Name: SPIS_HOST_Sleep
+  69:Generated_Source\PSoC4/SPIS_HOST_PM.c **** ********************************************************************************
+  70:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  71:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Summary:
+  72:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  Prepare SPI Slave Component goes to sleep.
+  73:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  74:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Parameters:
+  75:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  None.
+  76:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  77:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Return:
+  78:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  None.
+  79:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  80:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Global Variables:
+  81:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  SPIS_HOST_backup - modified when non-retention registers are saved.
+  82:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  83:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Reentrant:
+  84:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  No.
+  85:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+  86:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *******************************************************************************/
+  87:Generated_Source\PSoC4/SPIS_HOST_PM.c **** void SPIS_HOST_Sleep(void) 
+  88:Generated_Source\PSoC4/SPIS_HOST_PM.c **** {
+  66              		.loc 1 88 0
+  67              		.cfi_startproc
+  68              		@ args = 0, pretend = 0, frame = 0
+  69              		@ frame_needed = 0, uses_anonymous_args = 0
+  70 0000 10B5     		push	{r4, lr}
+  71              		.cfi_def_cfa_offset 8
+  72              		.cfi_offset 4, -8
+  73              		.cfi_offset 14, -4
+  89:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     /* Save components enable state */
+  90:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     if ((SPIS_HOST_TX_STATUS_ACTL_REG & SPIS_HOST_INT_ENABLE) != 0u)
+  74              		.loc 1 90 0
+  75 0002 074B     		ldr	r3, .L6
+  76 0004 1B78     		ldrb	r3, [r3]
+  77 0006 DB06     		lsls	r3, r3, #27
+  78 0008 03D5     		bpl	.L4
+  91:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     {
+  92:Generated_Source\PSoC4/SPIS_HOST_PM.c ****         SPIS_HOST_backup.enableState = 1u;
+  79              		.loc 1 92 0
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 4
+
+
+  80 000a 0122     		movs	r2, #1
+  81 000c 054B     		ldr	r3, .L6+4
+  82 000e 1A70     		strb	r2, [r3]
+  83 0010 02E0     		b	.L5
+  84              	.L4:
+  93:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     }
+  94:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     else /* Components block is disabled */
+  95:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     {
+  96:Generated_Source\PSoC4/SPIS_HOST_PM.c ****         SPIS_HOST_backup.enableState = 0u;
+  85              		.loc 1 96 0
+  86 0012 0022     		movs	r2, #0
+  87 0014 034B     		ldr	r3, .L6+4
+  88 0016 1A70     		strb	r2, [r3]
+  89              	.L5:
+  97:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     }
+  98:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+  99:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     SPIS_HOST_Stop();
+  90              		.loc 1 99 0
+  91 0018 FFF7FEFF 		bl	SPIS_HOST_Stop
+  92              	.LVL0:
+ 100:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+ 101:Generated_Source\PSoC4/SPIS_HOST_PM.c **** }
+  93              		.loc 1 101 0
+  94              		@ sp needed
+  95 001c 10BD     		pop	{r4, pc}
+  96              	.L7:
+  97 001e C046     		.align	2
+  98              	.L6:
+  99 0020 91000F40 		.word	1074725009
+ 100 0024 00000000 		.word	.LANCHOR0
+ 101              		.cfi_endproc
+ 102              	.LFE3:
+ 103              		.size	SPIS_HOST_Sleep, .-SPIS_HOST_Sleep
+ 104              		.section	.text.SPIS_HOST_Wakeup,"ax",%progbits
+ 105              		.align	2
+ 106              		.global	SPIS_HOST_Wakeup
+ 107              		.code	16
+ 108              		.thumb_func
+ 109              		.type	SPIS_HOST_Wakeup, %function
+ 110              	SPIS_HOST_Wakeup:
+ 111              	.LFB4:
+ 102:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+ 103:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+ 104:Generated_Source\PSoC4/SPIS_HOST_PM.c **** /*******************************************************************************
+ 105:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Function Name: SPIS_HOST_Wakeup
+ 106:Generated_Source\PSoC4/SPIS_HOST_PM.c **** ********************************************************************************
+ 107:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+ 108:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Summary:
+ 109:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  Prepare SPIM Component to wake up.
+ 110:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+ 111:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Parameters:
+ 112:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  None.
+ 113:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+ 114:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Return:
+ 115:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  None.
+ 116:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+ 117:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Global Variables:
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 5
+
+
+ 118:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  SPIS_HOST_backup - used when non-retention registers are restored.
+ 119:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  SPIS_HOST_txBufferWrite - modified every function call - resets to
+ 120:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  zero.
+ 121:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  SPIS_HOST_txBufferRead - modified every function call - resets to
+ 122:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  zero.
+ 123:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  SPIS_HOST_rxBufferWrite - modified every function call - resets to
+ 124:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  zero.
+ 125:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  SPIS_HOST_rxBufferRead - modified every function call - resets to
+ 126:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  zero.
+ 127:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+ 128:Generated_Source\PSoC4/SPIS_HOST_PM.c **** * Reentrant:
+ 129:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *  No.
+ 130:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *
+ 131:Generated_Source\PSoC4/SPIS_HOST_PM.c **** *******************************************************************************/
+ 132:Generated_Source\PSoC4/SPIS_HOST_PM.c **** void SPIS_HOST_Wakeup(void) 
+ 133:Generated_Source\PSoC4/SPIS_HOST_PM.c **** {
+ 112              		.loc 1 133 0
+ 113              		.cfi_startproc
+ 114              		@ args = 0, pretend = 0, frame = 0
+ 115              		@ frame_needed = 0, uses_anonymous_args = 0
+ 116 0000 10B5     		push	{r4, lr}
+ 117              		.cfi_def_cfa_offset 8
+ 118              		.cfi_offset 4, -8
+ 119              		.cfi_offset 14, -4
+ 134:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     #if (SPIS_HOST_TX_SOFTWARE_BUF_ENABLED)
+ 135:Generated_Source\PSoC4/SPIS_HOST_PM.c ****         SPIS_HOST_txBufferFull = 0u;
+ 136:Generated_Source\PSoC4/SPIS_HOST_PM.c ****         SPIS_HOST_txBufferRead = 0u;
+ 137:Generated_Source\PSoC4/SPIS_HOST_PM.c ****         SPIS_HOST_txBufferWrite = 0u;
+ 138:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     #endif /* SPIS_HOST_TX_SOFTWARE_BUF_ENABLED */
+ 139:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+ 140:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     #if (SPIS_HOST_RX_SOFTWARE_BUF_ENABLED)
+ 141:Generated_Source\PSoC4/SPIS_HOST_PM.c ****         SPIS_HOST_rxBufferFull = 0u;
+ 142:Generated_Source\PSoC4/SPIS_HOST_PM.c ****         SPIS_HOST_rxBufferRead = 0u;
+ 143:Generated_Source\PSoC4/SPIS_HOST_PM.c ****         SPIS_HOST_rxBufferWrite = 0u;
+ 144:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     #endif /* SPIS_HOST_RX_SOFTWARE_BUF_ENABLED */
+ 145:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+ 146:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     SPIS_HOST_ClearFIFO();
+ 120              		.loc 1 146 0
+ 121 0002 FFF7FEFF 		bl	SPIS_HOST_ClearFIFO
+ 122              	.LVL1:
+ 147:Generated_Source\PSoC4/SPIS_HOST_PM.c **** 
+ 148:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     /* Restore components block enable state */
+ 149:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     if (SPIS_HOST_backup.enableState != 0u)
+ 123              		.loc 1 149 0
+ 124 0006 034B     		ldr	r3, .L10
+ 125 0008 1B78     		ldrb	r3, [r3]
+ 126 000a 002B     		cmp	r3, #0
+ 127 000c 01D0     		beq	.L8
+ 150:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     {
+ 151:Generated_Source\PSoC4/SPIS_HOST_PM.c ****          /* Components block was enabled */
+ 152:Generated_Source\PSoC4/SPIS_HOST_PM.c ****          SPIS_HOST_Enable();
+ 128              		.loc 1 152 0
+ 129 000e FFF7FEFF 		bl	SPIS_HOST_Enable
+ 130              	.LVL2:
+ 131              	.L8:
+ 153:Generated_Source\PSoC4/SPIS_HOST_PM.c ****     } /* Do nothing if components block was disabled */
+ 154:Generated_Source\PSoC4/SPIS_HOST_PM.c **** }
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 6
+
+
+ 132              		.loc 1 154 0
+ 133              		@ sp needed
+ 134 0012 10BD     		pop	{r4, pc}
+ 135              	.L11:
+ 136              		.align	2
+ 137              	.L10:
+ 138 0014 00000000 		.word	.LANCHOR0
+ 139              		.cfi_endproc
+ 140              	.LFE4:
+ 141              		.size	SPIS_HOST_Wakeup, .-SPIS_HOST_Wakeup
+ 142              		.data
+ 143              		.align	2
+ 144              		.set	.LANCHOR0,. + 0
+ 145              		.type	SPIS_HOST_backup, %object
+ 146              		.size	SPIS_HOST_backup, 2
+ 147              	SPIS_HOST_backup:
+ 148 0000 00       		.byte	0
+ 149 0001 07       		.byte	7
+ 150              		.text
+ 151              	.Letext0:
+ 152              		.file 2 "Generated_Source\\PSoC4\\cytypes.h"
+ 153              		.file 3 "Generated_Source\\PSoC4\\SPIS_HOST.h"
+ 154              		.section	.debug_info,"",%progbits
+ 155              	.Ldebug_info0:
+ 156 0000 6F010000 		.4byte	0x16f
+ 157 0004 0400     		.2byte	0x4
+ 158 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 159 000a 04       		.byte	0x4
+ 160 000b 01       		.uleb128 0x1
+ 161 000c 23010000 		.4byte	.LASF26
+ 162 0010 0C       		.byte	0xc
+ 163 0011 E8010000 		.4byte	.LASF27
+ 164 0015 1E000000 		.4byte	.LASF28
+ 165 0019 00000000 		.4byte	.Ldebug_ranges0+0
+ 166 001d 00000000 		.4byte	0
+ 167 0021 00000000 		.4byte	.Ldebug_line0
+ 168 0025 02       		.uleb128 0x2
+ 169 0026 01       		.byte	0x1
+ 170 0027 06       		.byte	0x6
+ 171 0028 44020000 		.4byte	.LASF0
+ 172 002c 02       		.uleb128 0x2
+ 173 002d 01       		.byte	0x1
+ 174 002e 08       		.byte	0x8
+ 175 002f 8F000000 		.4byte	.LASF1
+ 176 0033 02       		.uleb128 0x2
+ 177 0034 02       		.byte	0x2
+ 178 0035 05       		.byte	0x5
+ 179 0036 CD010000 		.4byte	.LASF2
+ 180 003a 02       		.uleb128 0x2
+ 181 003b 02       		.byte	0x2
+ 182 003c 07       		.byte	0x7
+ 183 003d 50020000 		.4byte	.LASF3
+ 184 0041 02       		.uleb128 0x2
+ 185 0042 04       		.byte	0x4
+ 186 0043 05       		.byte	0x5
+ 187 0044 23020000 		.4byte	.LASF4
+ 188 0048 02       		.uleb128 0x2
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 7
+
+
+ 189 0049 04       		.byte	0x4
+ 190 004a 07       		.byte	0x7
+ 191 004b A2000000 		.4byte	.LASF5
+ 192 004f 02       		.uleb128 0x2
+ 193 0050 08       		.byte	0x8
+ 194 0051 05       		.byte	0x5
+ 195 0052 BA010000 		.4byte	.LASF6
+ 196 0056 02       		.uleb128 0x2
+ 197 0057 08       		.byte	0x8
+ 198 0058 07       		.byte	0x7
+ 199 0059 0C010000 		.4byte	.LASF7
+ 200 005d 03       		.uleb128 0x3
+ 201 005e 04       		.byte	0x4
+ 202 005f 05       		.byte	0x5
+ 203 0060 696E7400 		.ascii	"int\000"
+ 204 0064 02       		.uleb128 0x2
+ 205 0065 04       		.byte	0x4
+ 206 0066 07       		.byte	0x7
+ 207 0067 F0000000 		.4byte	.LASF8
+ 208 006b 04       		.uleb128 0x4
+ 209 006c B4000000 		.4byte	.LASF12
+ 210 0070 02       		.byte	0x2
+ 211 0071 FB01     		.2byte	0x1fb
+ 212 0073 2C000000 		.4byte	0x2c
+ 213 0077 02       		.uleb128 0x2
+ 214 0078 04       		.byte	0x4
+ 215 0079 04       		.byte	0x4
+ 216 007a 00000000 		.4byte	.LASF9
+ 217 007e 02       		.uleb128 0x2
+ 218 007f 08       		.byte	0x8
+ 219 0080 04       		.byte	0x4
+ 220 0081 CA000000 		.4byte	.LASF10
+ 221 0085 02       		.uleb128 0x2
+ 222 0086 01       		.byte	0x1
+ 223 0087 08       		.byte	0x8
+ 224 0088 C8010000 		.4byte	.LASF11
+ 225 008c 04       		.uleb128 0x4
+ 226 008d 9D000000 		.4byte	.LASF13
+ 227 0091 02       		.byte	0x2
+ 228 0092 A502     		.2byte	0x2a5
+ 229 0094 98000000 		.4byte	0x98
+ 230 0098 05       		.uleb128 0x5
+ 231 0099 6B000000 		.4byte	0x6b
+ 232 009d 02       		.uleb128 0x2
+ 233 009e 08       		.byte	0x8
+ 234 009f 04       		.byte	0x4
+ 235 00a0 38020000 		.4byte	.LASF14
+ 236 00a4 02       		.uleb128 0x2
+ 237 00a5 04       		.byte	0x4
+ 238 00a6 07       		.byte	0x7
+ 239 00a7 B1010000 		.4byte	.LASF15
+ 240 00ab 06       		.uleb128 0x6
+ 241 00ac 02       		.byte	0x2
+ 242 00ad 03       		.byte	0x3
+ 243 00ae 39       		.byte	0x39
+ 244 00af CC000000 		.4byte	0xcc
+ 245 00b3 07       		.uleb128 0x7
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 8
+
+
+ 246 00b4 2C020000 		.4byte	.LASF16
+ 247 00b8 03       		.byte	0x3
+ 248 00b9 3B       		.byte	0x3b
+ 249 00ba 6B000000 		.4byte	0x6b
+ 250 00be 00       		.byte	0
+ 251 00bf 07       		.uleb128 0x7
+ 252 00c0 E5000000 		.4byte	.LASF17
+ 253 00c4 03       		.byte	0x3
+ 254 00c5 3C       		.byte	0x3c
+ 255 00c6 6B000000 		.4byte	0x6b
+ 256 00ca 01       		.byte	0x1
+ 257 00cb 00       		.byte	0
+ 258 00cc 08       		.uleb128 0x8
+ 259 00cd 06000000 		.4byte	.LASF18
+ 260 00d1 03       		.byte	0x3
+ 261 00d2 3D       		.byte	0x3d
+ 262 00d3 AB000000 		.4byte	0xab
+ 263 00d7 09       		.uleb128 0x9
+ 264 00d8 0E020000 		.4byte	.LASF19
+ 265 00dc 01       		.byte	0x1
+ 266 00dd 29       		.byte	0x29
+ 267 00de 00000000 		.4byte	.LFB1
+ 268 00e2 02000000 		.4byte	.LFE1-.LFB1
+ 269 00e6 01       		.uleb128 0x1
+ 270 00e7 9C       		.byte	0x9c
+ 271 00e8 09       		.uleb128 0x9
+ 272 00e9 77000000 		.4byte	.LASF20
+ 273 00ed 01       		.byte	0x1
+ 274 00ee 3D       		.byte	0x3d
+ 275 00ef 00000000 		.4byte	.LFB2
+ 276 00f3 02000000 		.4byte	.LFE2-.LFB2
+ 277 00f7 01       		.uleb128 0x1
+ 278 00f8 9C       		.byte	0x9c
+ 279 00f9 0A       		.uleb128 0xa
+ 280 00fa BA000000 		.4byte	.LASF21
+ 281 00fe 01       		.byte	0x1
+ 282 00ff 57       		.byte	0x57
+ 283 0100 00000000 		.4byte	.LFB3
+ 284 0104 28000000 		.4byte	.LFE3-.LFB3
+ 285 0108 01       		.uleb128 0x1
+ 286 0109 9C       		.byte	0x9c
+ 287 010a 18010000 		.4byte	0x118
+ 288 010e 0B       		.uleb128 0xb
+ 289 010f 1C000000 		.4byte	.LVL0
+ 290 0113 51010000 		.4byte	0x151
+ 291 0117 00       		.byte	0
+ 292 0118 0A       		.uleb128 0xa
+ 293 0119 66000000 		.4byte	.LASF22
+ 294 011d 01       		.byte	0x1
+ 295 011e 84       		.byte	0x84
+ 296 011f 00000000 		.4byte	.LFB4
+ 297 0123 18000000 		.4byte	.LFE4-.LFB4
+ 298 0127 01       		.uleb128 0x1
+ 299 0128 9C       		.byte	0x9c
+ 300 0129 40010000 		.4byte	0x140
+ 301 012d 0B       		.uleb128 0xb
+ 302 012e 06000000 		.4byte	.LVL1
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 9
+
+
+ 303 0132 5C010000 		.4byte	0x15c
+ 304 0136 0B       		.uleb128 0xb
+ 305 0137 12000000 		.4byte	.LVL2
+ 306 013b 67010000 		.4byte	0x167
+ 307 013f 00       		.byte	0
+ 308 0140 0C       		.uleb128 0xc
+ 309 0141 55000000 		.4byte	.LASF29
+ 310 0145 01       		.byte	0x1
+ 311 0146 14       		.byte	0x14
+ 312 0147 CC000000 		.4byte	0xcc
+ 313 014b 05       		.uleb128 0x5
+ 314 014c 03       		.byte	0x3
+ 315 014d 00000000 		.4byte	SPIS_HOST_backup
+ 316 0151 0D       		.uleb128 0xd
+ 317 0152 FD000000 		.4byte	.LASF23
+ 318 0156 FD000000 		.4byte	.LASF23
+ 319 015a 03       		.byte	0x3
+ 320 015b 47       		.byte	0x47
+ 321 015c 0D       		.uleb128 0xd
+ 322 015d D1000000 		.4byte	.LASF24
+ 323 0161 D1000000 		.4byte	.LASF24
+ 324 0165 03       		.byte	0x3
+ 325 0166 63       		.byte	0x63
+ 326 0167 0D       		.uleb128 0xd
+ 327 0168 D7010000 		.4byte	.LASF25
+ 328 016c D7010000 		.4byte	.LASF25
+ 329 0170 03       		.byte	0x3
+ 330 0171 45       		.byte	0x45
+ 331 0172 00       		.byte	0
+ 332              		.section	.debug_abbrev,"",%progbits
+ 333              	.Ldebug_abbrev0:
+ 334 0000 01       		.uleb128 0x1
+ 335 0001 11       		.uleb128 0x11
+ 336 0002 01       		.byte	0x1
+ 337 0003 25       		.uleb128 0x25
+ 338 0004 0E       		.uleb128 0xe
+ 339 0005 13       		.uleb128 0x13
+ 340 0006 0B       		.uleb128 0xb
+ 341 0007 03       		.uleb128 0x3
+ 342 0008 0E       		.uleb128 0xe
+ 343 0009 1B       		.uleb128 0x1b
+ 344 000a 0E       		.uleb128 0xe
+ 345 000b 55       		.uleb128 0x55
+ 346 000c 17       		.uleb128 0x17
+ 347 000d 11       		.uleb128 0x11
+ 348 000e 01       		.uleb128 0x1
+ 349 000f 10       		.uleb128 0x10
+ 350 0010 17       		.uleb128 0x17
+ 351 0011 00       		.byte	0
+ 352 0012 00       		.byte	0
+ 353 0013 02       		.uleb128 0x2
+ 354 0014 24       		.uleb128 0x24
+ 355 0015 00       		.byte	0
+ 356 0016 0B       		.uleb128 0xb
+ 357 0017 0B       		.uleb128 0xb
+ 358 0018 3E       		.uleb128 0x3e
+ 359 0019 0B       		.uleb128 0xb
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 10
+
+
+ 360 001a 03       		.uleb128 0x3
+ 361 001b 0E       		.uleb128 0xe
+ 362 001c 00       		.byte	0
+ 363 001d 00       		.byte	0
+ 364 001e 03       		.uleb128 0x3
+ 365 001f 24       		.uleb128 0x24
+ 366 0020 00       		.byte	0
+ 367 0021 0B       		.uleb128 0xb
+ 368 0022 0B       		.uleb128 0xb
+ 369 0023 3E       		.uleb128 0x3e
+ 370 0024 0B       		.uleb128 0xb
+ 371 0025 03       		.uleb128 0x3
+ 372 0026 08       		.uleb128 0x8
+ 373 0027 00       		.byte	0
+ 374 0028 00       		.byte	0
+ 375 0029 04       		.uleb128 0x4
+ 376 002a 16       		.uleb128 0x16
+ 377 002b 00       		.byte	0
+ 378 002c 03       		.uleb128 0x3
+ 379 002d 0E       		.uleb128 0xe
+ 380 002e 3A       		.uleb128 0x3a
+ 381 002f 0B       		.uleb128 0xb
+ 382 0030 3B       		.uleb128 0x3b
+ 383 0031 05       		.uleb128 0x5
+ 384 0032 49       		.uleb128 0x49
+ 385 0033 13       		.uleb128 0x13
+ 386 0034 00       		.byte	0
+ 387 0035 00       		.byte	0
+ 388 0036 05       		.uleb128 0x5
+ 389 0037 35       		.uleb128 0x35
+ 390 0038 00       		.byte	0
+ 391 0039 49       		.uleb128 0x49
+ 392 003a 13       		.uleb128 0x13
+ 393 003b 00       		.byte	0
+ 394 003c 00       		.byte	0
+ 395 003d 06       		.uleb128 0x6
+ 396 003e 13       		.uleb128 0x13
+ 397 003f 01       		.byte	0x1
+ 398 0040 0B       		.uleb128 0xb
+ 399 0041 0B       		.uleb128 0xb
+ 400 0042 3A       		.uleb128 0x3a
+ 401 0043 0B       		.uleb128 0xb
+ 402 0044 3B       		.uleb128 0x3b
+ 403 0045 0B       		.uleb128 0xb
+ 404 0046 01       		.uleb128 0x1
+ 405 0047 13       		.uleb128 0x13
+ 406 0048 00       		.byte	0
+ 407 0049 00       		.byte	0
+ 408 004a 07       		.uleb128 0x7
+ 409 004b 0D       		.uleb128 0xd
+ 410 004c 00       		.byte	0
+ 411 004d 03       		.uleb128 0x3
+ 412 004e 0E       		.uleb128 0xe
+ 413 004f 3A       		.uleb128 0x3a
+ 414 0050 0B       		.uleb128 0xb
+ 415 0051 3B       		.uleb128 0x3b
+ 416 0052 0B       		.uleb128 0xb
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 11
+
+
+ 417 0053 49       		.uleb128 0x49
+ 418 0054 13       		.uleb128 0x13
+ 419 0055 38       		.uleb128 0x38
+ 420 0056 0B       		.uleb128 0xb
+ 421 0057 00       		.byte	0
+ 422 0058 00       		.byte	0
+ 423 0059 08       		.uleb128 0x8
+ 424 005a 16       		.uleb128 0x16
+ 425 005b 00       		.byte	0
+ 426 005c 03       		.uleb128 0x3
+ 427 005d 0E       		.uleb128 0xe
+ 428 005e 3A       		.uleb128 0x3a
+ 429 005f 0B       		.uleb128 0xb
+ 430 0060 3B       		.uleb128 0x3b
+ 431 0061 0B       		.uleb128 0xb
+ 432 0062 49       		.uleb128 0x49
+ 433 0063 13       		.uleb128 0x13
+ 434 0064 00       		.byte	0
+ 435 0065 00       		.byte	0
+ 436 0066 09       		.uleb128 0x9
+ 437 0067 2E       		.uleb128 0x2e
+ 438 0068 00       		.byte	0
+ 439 0069 3F       		.uleb128 0x3f
+ 440 006a 19       		.uleb128 0x19
+ 441 006b 03       		.uleb128 0x3
+ 442 006c 0E       		.uleb128 0xe
+ 443 006d 3A       		.uleb128 0x3a
+ 444 006e 0B       		.uleb128 0xb
+ 445 006f 3B       		.uleb128 0x3b
+ 446 0070 0B       		.uleb128 0xb
+ 447 0071 27       		.uleb128 0x27
+ 448 0072 19       		.uleb128 0x19
+ 449 0073 11       		.uleb128 0x11
+ 450 0074 01       		.uleb128 0x1
+ 451 0075 12       		.uleb128 0x12
+ 452 0076 06       		.uleb128 0x6
+ 453 0077 40       		.uleb128 0x40
+ 454 0078 18       		.uleb128 0x18
+ 455 0079 9742     		.uleb128 0x2117
+ 456 007b 19       		.uleb128 0x19
+ 457 007c 00       		.byte	0
+ 458 007d 00       		.byte	0
+ 459 007e 0A       		.uleb128 0xa
+ 460 007f 2E       		.uleb128 0x2e
+ 461 0080 01       		.byte	0x1
+ 462 0081 3F       		.uleb128 0x3f
+ 463 0082 19       		.uleb128 0x19
+ 464 0083 03       		.uleb128 0x3
+ 465 0084 0E       		.uleb128 0xe
+ 466 0085 3A       		.uleb128 0x3a
+ 467 0086 0B       		.uleb128 0xb
+ 468 0087 3B       		.uleb128 0x3b
+ 469 0088 0B       		.uleb128 0xb
+ 470 0089 27       		.uleb128 0x27
+ 471 008a 19       		.uleb128 0x19
+ 472 008b 11       		.uleb128 0x11
+ 473 008c 01       		.uleb128 0x1
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 12
+
+
+ 474 008d 12       		.uleb128 0x12
+ 475 008e 06       		.uleb128 0x6
+ 476 008f 40       		.uleb128 0x40
+ 477 0090 18       		.uleb128 0x18
+ 478 0091 9742     		.uleb128 0x2117
+ 479 0093 19       		.uleb128 0x19
+ 480 0094 01       		.uleb128 0x1
+ 481 0095 13       		.uleb128 0x13
+ 482 0096 00       		.byte	0
+ 483 0097 00       		.byte	0
+ 484 0098 0B       		.uleb128 0xb
+ 485 0099 898201   		.uleb128 0x4109
+ 486 009c 00       		.byte	0
+ 487 009d 11       		.uleb128 0x11
+ 488 009e 01       		.uleb128 0x1
+ 489 009f 31       		.uleb128 0x31
+ 490 00a0 13       		.uleb128 0x13
+ 491 00a1 00       		.byte	0
+ 492 00a2 00       		.byte	0
+ 493 00a3 0C       		.uleb128 0xc
+ 494 00a4 34       		.uleb128 0x34
+ 495 00a5 00       		.byte	0
+ 496 00a6 03       		.uleb128 0x3
+ 497 00a7 0E       		.uleb128 0xe
+ 498 00a8 3A       		.uleb128 0x3a
+ 499 00a9 0B       		.uleb128 0xb
+ 500 00aa 3B       		.uleb128 0x3b
+ 501 00ab 0B       		.uleb128 0xb
+ 502 00ac 49       		.uleb128 0x49
+ 503 00ad 13       		.uleb128 0x13
+ 504 00ae 02       		.uleb128 0x2
+ 505 00af 18       		.uleb128 0x18
+ 506 00b0 00       		.byte	0
+ 507 00b1 00       		.byte	0
+ 508 00b2 0D       		.uleb128 0xd
+ 509 00b3 2E       		.uleb128 0x2e
+ 510 00b4 00       		.byte	0
+ 511 00b5 3F       		.uleb128 0x3f
+ 512 00b6 19       		.uleb128 0x19
+ 513 00b7 3C       		.uleb128 0x3c
+ 514 00b8 19       		.uleb128 0x19
+ 515 00b9 6E       		.uleb128 0x6e
+ 516 00ba 0E       		.uleb128 0xe
+ 517 00bb 03       		.uleb128 0x3
+ 518 00bc 0E       		.uleb128 0xe
+ 519 00bd 3A       		.uleb128 0x3a
+ 520 00be 0B       		.uleb128 0xb
+ 521 00bf 3B       		.uleb128 0x3b
+ 522 00c0 0B       		.uleb128 0xb
+ 523 00c1 00       		.byte	0
+ 524 00c2 00       		.byte	0
+ 525 00c3 00       		.byte	0
+ 526              		.section	.debug_aranges,"",%progbits
+ 527 0000 34000000 		.4byte	0x34
+ 528 0004 0200     		.2byte	0x2
+ 529 0006 00000000 		.4byte	.Ldebug_info0
+ 530 000a 04       		.byte	0x4
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 13
+
+
+ 531 000b 00       		.byte	0
+ 532 000c 0000     		.2byte	0
+ 533 000e 0000     		.2byte	0
+ 534 0010 00000000 		.4byte	.LFB1
+ 535 0014 02000000 		.4byte	.LFE1-.LFB1
+ 536 0018 00000000 		.4byte	.LFB2
+ 537 001c 02000000 		.4byte	.LFE2-.LFB2
+ 538 0020 00000000 		.4byte	.LFB3
+ 539 0024 28000000 		.4byte	.LFE3-.LFB3
+ 540 0028 00000000 		.4byte	.LFB4
+ 541 002c 18000000 		.4byte	.LFE4-.LFB4
+ 542 0030 00000000 		.4byte	0
+ 543 0034 00000000 		.4byte	0
+ 544              		.section	.debug_ranges,"",%progbits
+ 545              	.Ldebug_ranges0:
+ 546 0000 00000000 		.4byte	.LFB1
+ 547 0004 02000000 		.4byte	.LFE1
+ 548 0008 00000000 		.4byte	.LFB2
+ 549 000c 02000000 		.4byte	.LFE2
+ 550 0010 00000000 		.4byte	.LFB3
+ 551 0014 28000000 		.4byte	.LFE3
+ 552 0018 00000000 		.4byte	.LFB4
+ 553 001c 18000000 		.4byte	.LFE4
+ 554 0020 00000000 		.4byte	0
+ 555 0024 00000000 		.4byte	0
+ 556              		.section	.debug_line,"",%progbits
+ 557              	.Ldebug_line0:
+ 558 0000 A9000000 		.section	.debug_str,"MS",%progbits,1
+ 558      02005800 
+ 558      00000201 
+ 558      FB0E0D00 
+ 558      01010101 
+ 559              	.LASF9:
+ 560 0000 666C6F61 		.ascii	"float\000"
+ 560      7400
+ 561              	.LASF18:
+ 562 0006 53504953 		.ascii	"SPIS_HOST_BACKUP_STRUCT\000"
+ 562      5F484F53 
+ 562      545F4241 
+ 562      434B5550 
+ 562      5F535452 
+ 563              	.LASF28:
+ 564 001e 5C5C4D61 		.ascii	"\\\\Mac\\Data\\VScode\\GIT\\MacPro_KickStart\\PSoC4"
+ 564      635C4461 
+ 564      74615C56 
+ 564      53636F64 
+ 564      655C4749 
+ 565 004a 3230304C 		.ascii	"200L.cydsn\000"
+ 565      2E637964 
+ 565      736E00
+ 566              	.LASF29:
+ 567 0055 53504953 		.ascii	"SPIS_HOST_backup\000"
+ 567      5F484F53 
+ 567      545F6261 
+ 567      636B7570 
+ 567      00
+ 568              	.LASF22:
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 14
+
+
+ 569 0066 53504953 		.ascii	"SPIS_HOST_Wakeup\000"
+ 569      5F484F53 
+ 569      545F5761 
+ 569      6B657570 
+ 569      00
+ 570              	.LASF20:
+ 571 0077 53504953 		.ascii	"SPIS_HOST_RestoreConfig\000"
+ 571      5F484F53 
+ 571      545F5265 
+ 571      73746F72 
+ 571      65436F6E 
+ 572              	.LASF1:
+ 573 008f 756E7369 		.ascii	"unsigned char\000"
+ 573      676E6564 
+ 573      20636861 
+ 573      7200
+ 574              	.LASF13:
+ 575 009d 72656738 		.ascii	"reg8\000"
+ 575      00
+ 576              	.LASF5:
+ 577 00a2 6C6F6E67 		.ascii	"long unsigned int\000"
+ 577      20756E73 
+ 577      69676E65 
+ 577      6420696E 
+ 577      7400
+ 578              	.LASF12:
+ 579 00b4 75696E74 		.ascii	"uint8\000"
+ 579      3800
+ 580              	.LASF21:
+ 581 00ba 53504953 		.ascii	"SPIS_HOST_Sleep\000"
+ 581      5F484F53 
+ 581      545F536C 
+ 581      65657000 
+ 582              	.LASF10:
+ 583 00ca 646F7562 		.ascii	"double\000"
+ 583      6C6500
+ 584              	.LASF24:
+ 585 00d1 53504953 		.ascii	"SPIS_HOST_ClearFIFO\000"
+ 585      5F484F53 
+ 585      545F436C 
+ 585      65617246 
+ 585      49464F00 
+ 586              	.LASF17:
+ 587 00e5 636E7472 		.ascii	"cntrPeriod\000"
+ 587      50657269 
+ 587      6F6400
+ 588              	.LASF8:
+ 589 00f0 756E7369 		.ascii	"unsigned int\000"
+ 589      676E6564 
+ 589      20696E74 
+ 589      00
+ 590              	.LASF23:
+ 591 00fd 53504953 		.ascii	"SPIS_HOST_Stop\000"
+ 591      5F484F53 
+ 591      545F5374 
+ 591      6F7000
+ 592              	.LASF7:
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 15
+
+
+ 593 010c 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 593      206C6F6E 
+ 593      6720756E 
+ 593      7369676E 
+ 593      65642069 
+ 594              	.LASF26:
+ 595 0123 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 595      43313120 
+ 595      352E342E 
+ 595      31203230 
+ 595      31363036 
+ 596 0156 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m0 -mthumb -g -O"
+ 596      20726576 
+ 596      6973696F 
+ 596      6E203233 
+ 596      37373135 
+ 597 0189 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 597      66756E63 
+ 597      74696F6E 
+ 597      2D736563 
+ 597      74696F6E 
+ 598              	.LASF15:
+ 599 01b1 73697A65 		.ascii	"sizetype\000"
+ 599      74797065 
+ 599      00
+ 600              	.LASF6:
+ 601 01ba 6C6F6E67 		.ascii	"long long int\000"
+ 601      206C6F6E 
+ 601      6720696E 
+ 601      7400
+ 602              	.LASF11:
+ 603 01c8 63686172 		.ascii	"char\000"
+ 603      00
+ 604              	.LASF2:
+ 605 01cd 73686F72 		.ascii	"short int\000"
+ 605      7420696E 
+ 605      7400
+ 606              	.LASF25:
+ 607 01d7 53504953 		.ascii	"SPIS_HOST_Enable\000"
+ 607      5F484F53 
+ 607      545F456E 
+ 607      61626C65 
+ 607      00
+ 608              	.LASF27:
+ 609 01e8 47656E65 		.ascii	"Generated_Source\\PSoC4\\SPIS_HOST_PM.c\000"
+ 609      72617465 
+ 609      645F536F 
+ 609      75726365 
+ 609      5C50536F 
+ 610              	.LASF19:
+ 611 020e 53504953 		.ascii	"SPIS_HOST_SaveConfig\000"
+ 611      5F484F53 
+ 611      545F5361 
+ 611      7665436F 
+ 611      6E666967 
+ 612              	.LASF4:
+ 613 0223 6C6F6E67 		.ascii	"long int\000"
+ARM GAS  C:\Users\rolf\AppData\Local\Temp\ccI7yHa2.s 			page 16
+
+
+ 613      20696E74 
+ 613      00
+ 614              	.LASF16:
+ 615 022c 656E6162 		.ascii	"enableState\000"
+ 615      6C655374 
+ 615      61746500 
+ 616              	.LASF14:
+ 617 0238 6C6F6E67 		.ascii	"long double\000"
+ 617      20646F75 
+ 617      626C6500 
+ 618              	.LASF0:
+ 619 0244 7369676E 		.ascii	"signed char\000"
+ 619      65642063 
+ 619      68617200 
+ 620              	.LASF3:
+ 621 0250 73686F72 		.ascii	"short unsigned int\000"
+ 621      7420756E 
+ 621      7369676E 
+ 621      65642069 
+ 621      6E7400
+ 622              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran

@@ -1,0 +1,6 @@
+\\Mac\Data\VScode\GIT\MacPro_KickStart\PSoC4200L.cydsn\PSoC4200L.cyprj|60240e1d-9f25-4c81-9a13-c6ea2bfb4ff6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|49f6c8d5-ce4f-47e6-87cc-224faec5b85f
+C:\Users\rolf\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|d93d6dc7-1952-4f51-9c46-e1c54e8656d8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1d3231e0-8f43-4dfb-9d62-e6d1df1c0c58
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|168a261b-3cce-4cdb-8ab9-4597630b9c27
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|0c7914bb-097a-4c14-b992-a83d8b539a6b

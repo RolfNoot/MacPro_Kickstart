@@ -1,0 +1,29 @@
+{
+    "json.validate.enable": false,  //temporary disable as tasks.json yields error on "fileLocation": ["relative", "${workspaceFolder}/build" ]
+    "ego.power-tools": {
+        "commands": {
+            "otx.preLaunch": {
+                "script": "${workspaceRoot}/.vscode/otxC.js",
+            },
+            "otx.clean": {
+                "script": "${workspaceRoot}/.vscode/otxC.js",
+                "button": { "text": "$(references) Clean-Reconfigure" },
+            },
+            "otx.build": {
+                "script": "${workspaceRoot}/.vscode/otxC.js",
+                "button": { "text": "$(file-binary) Build" },
+            },
+            "otx.run": {
+                "script": "${workspaceRoot}/.vscode/otxC.js",
+                "button": { "text": "$(debug-start) Build-and-Launch" },
+            }
+        }
+    },
+    "files.associations": {
+        "project.h": "c",
+        "new.h": "c",
+        "cy_efuse.h": "c",
+        "cy_device_headers.h": "c",
+        "ble.h": "c"
+    }
+}
