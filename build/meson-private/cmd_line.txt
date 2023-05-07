@@ -1,5 +1,0 @@
-[options]
-
-[properties]
-cross_file = ['/Volumes/Data/VScode/GIT/MacPro_KickStart/cross_gcc.build']
-
