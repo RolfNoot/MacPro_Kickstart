@@ -18,6 +18,7 @@ This project is created with the following tools / extensions.
     - For Windows: [VSCode_OnethinxPack_Windows](https://github.com/onethinx/VSCode_OnethinxPack_Windows)
     - For Linux: [VSCode_OnethinxPack_Linux](https://github.com/onethinx/VSCode_OnethinxPack_Linux)
     - For MacOS: [VSCode_OnethinxPack_MacOS](https://github.com/onethinx/VSCode_OnethinxPack_MacOS)
+1. This project uses the Meson build tool, follow [this link](https://github.com/onethinx/OTX-Meson-Testing) to set it up. 
 1. Clone `https://github.com/RolfNoot/MacPro_Kickstart.git` or [download](https://github.com/RolfNoot/MacPro_Kickstart/archive/refs/heads/main.zip) and unpack the MacPro_Kickstart Project to your local machine.
 
 
