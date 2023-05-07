@@ -6,3 +6,4 @@
 **/PSoC4200L.cydsn/Onethinx_Creator.cyprj.*
 **/PSoC4200L.cydsn/Onethinx_Creator.cywrk.*
 .DS_Store
+.cache/**
