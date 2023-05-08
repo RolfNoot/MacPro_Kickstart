@@ -4,6 +4,7 @@
 **/PSoC4200L.cydsn/Onethinx_Creator.cywrk.*
 .DS_Store
 .cache/**
+build/backup/**
 build/meson-info/**
 build/meson-logs/**
 build/meson-private/**
